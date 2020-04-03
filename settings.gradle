@@ -1,0 +1,2 @@
+rootProject.name='shos_normalne'
+include ':app'
